@@ -36,4 +36,3 @@ Sample Output (first 3 shown):
 ***
 **
 *
-		
