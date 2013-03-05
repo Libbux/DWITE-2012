@@ -26,7 +26,7 @@ Sample Input (first 3 shown):
 3
 		        
 Sample Output (first 3 shown):
- 
+<pre> 
 *
 **
 *
@@ -36,3 +36,4 @@ Sample Output (first 3 shown):
 ***
 **
 *
+</pre>
